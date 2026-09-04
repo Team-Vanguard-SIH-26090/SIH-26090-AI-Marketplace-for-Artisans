@@ -1,0 +1,13 @@
+
+.venv/
+venv/
+env/
+
+__pycache__/
+*.pyc
+.env
+_temp_cutout.png
+uploads/
+processed/
+.DS_Store
+.vscode/
