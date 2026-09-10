@@ -1,0 +1,29 @@
+# Security: Environment Variables
+.env
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Temporary Media & Processing Files
+_temp_*
+*.jpg
+*.jpeg
+*.png
+*.m4a
+*.mp3
+*.mp4
+*.webm
+*.bin
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
