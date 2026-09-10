@@ -1,1 +1,0 @@
-# SIH-26090-AI-Marketplace-for-Artisans

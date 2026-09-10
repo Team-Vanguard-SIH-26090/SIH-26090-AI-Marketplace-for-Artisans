@@ -1,5 +1,0 @@
-fastapi
-uvicorn[standard]
-python-multipart
-groq
-python-dotenv
