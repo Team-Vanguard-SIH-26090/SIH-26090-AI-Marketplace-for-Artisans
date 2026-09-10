@@ -1,0 +1,33 @@
+name: craft_connect
+description: "An AI-powered digital store and catalog manager for Indian artisans."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  http: ^1.2.0
+  image_picker: ^1.0.7
+  shared_preferences: ^2.5.3
+  google_fonts: ^6.2.1
+  record: ^6.1.1
+  audioplayers: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  image_path: "assets/logo.png"
+  android: true
+  ios: true
+
+flutter:
+  uses-material-design: true
